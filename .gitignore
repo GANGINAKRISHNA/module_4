@@ -1,0 +1,8 @@
+# Ignore model weights
+*.pth
+
+# Ignore results folder
+results/
+
+# Python cache
+__pycache__/
